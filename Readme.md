@@ -1,2 +1,2 @@
-### MBUSNet: **A Multimodal Breast Ultrasound Image Segmentation Network for breast tumor segmentation**
-The code is for paper "MBUSNet: A Multimodal Breast Ultrasound Image Segmentation Network for breast tumor segmentation". More details and implementation files will be uploaded soon!
+### MBUSNet: Multimodal Breast Ultrasound Image Segmentation Network with boundary uncertainty augmented
+The code is for paper "MBUSNet: Multimodal Breast Ultrasound Image Segmentation Network with boundary uncertainty augmented". More details and implementation files will be uploaded soon!
